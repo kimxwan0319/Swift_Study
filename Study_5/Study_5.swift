@@ -1,4 +1,4 @@
-// Swift의 입력함수인 readline()을 공부하며 작성한 입력값을 더하는 코드.
+// Swift의 입력함수인 readline()을 공부하며 작성한, 입력값을 더하는 코드.
 
 import Foundation
 
