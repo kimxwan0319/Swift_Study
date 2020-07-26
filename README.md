@@ -1,4 +1,4 @@
 Swift_playground
 
-Swift 문법을 공부하며 playground에 작성한 코드
+Swift를 공부하며 작성한 코드들
 
