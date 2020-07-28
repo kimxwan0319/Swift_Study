@@ -39,7 +39,7 @@ repeat {
     }
     
     w = q
-    w = q
+    e = q
     
     while w>0 {
         w -= 1
